@@ -17,7 +17,7 @@ Each file contains the following columns:
 
 | Column Name        | Description                                            |
 |--------------------|--------------------------------------------------------|
-| `eng`              | The source sentence in English (e.g., `I am American.`)|
+| `eng`              | The source sentence in English|
 | `<lang>_m`         | The masculine form of the translation (if applicable)  |
 | `<lang>_f`         | The feminine form of the translation (if applicable)   |
 | `<lang>_n`         | The neuter form of the translation (if applicable)     |
